@@ -1,3 +1,3 @@
-## Welcome to Endless Space Travel site
+## Welcome to Endless Road Journey site
 
-This site is about Endless Space Travel game, which developed by Alexander Semenov for the iOs platform.
+This site is about Endless Road Journey game, which developed by Alexander Semenov for the iOs platform.
